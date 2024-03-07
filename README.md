@@ -1,1 +1,1 @@
-"D:\Railway Management" 
+Our project revolutionizes the traditional railway reservation system by implementing a user-friendly interface with real-time seat availability and booking functionality. The system employs efficient database management and secure payment gateways for a seamless user experience, ensuring hassle-free train ticket reservations.
